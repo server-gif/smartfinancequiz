@@ -34,7 +34,7 @@ const gadsids = {
 
 const quizData = [
   { question: "What does a credit score indicate?", options: ["Creditworthiness", "Monthly Income", "Tax Amount", "Bank Balance"], correct: "Creditworthiness" },
-  { question: "What is compound interest?", options: ["Interest on Savings", "A fixed bank fee", "A tax on savings", "A loan repayment"], correct: "Interest on principal and accumulated interest" },
+  { question: "What is compound interest?", options: ["Interest on Savings", "A fixed bank fee", "A tax on savings", "A loan repayment"], correct: "Interest on Savings" },
 ];
 
 let score = 0, selectedAnswer = null, correctAnswers = 0;
